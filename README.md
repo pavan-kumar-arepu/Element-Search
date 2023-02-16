@@ -28,8 +28,13 @@ For each test case, print on a separate line 1 if the element exists, else print
 
 
 **Example - Input 1:**
+      Line1-->   TestCase ==> 1    
+      Line2--> Array size ==> 5 
+      Line3--> Array size ==> 4 1 5 9 1 
+      Line4--> Array size ==> 5
 
- 1          --Line1--> TestCase
- 5          --Line2--> Array size
- 4 1 5 9 1  --Line3--> Array
- 5          --Line4--> Element to find
+
+**Example - Output 1:**
+     Line1 --> 1 (as 5 found in index 2)
+
+**Thanks**
